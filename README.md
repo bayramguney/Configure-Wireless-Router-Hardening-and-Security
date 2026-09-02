@@ -184,6 +184,7 @@ This confirms that guest devices are prevented from accessing the private home n
 ## 📸 Screenshots
 
 Add screenshots here after completing the lab.
+<img width="945" height="572" alt="image" src="https://github.com/user-attachments/assets/db9bfc0d-b54c-4179-afdc-7baba56142d3" />
 
 Example:
 
