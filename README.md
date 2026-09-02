@@ -190,12 +190,8 @@ Example:
 
 ```
 images/
-├── topology.png
-├── router-admin.png
-├── wireless-security.png
-├── guest-network.png
-├── laptop-connection.png
-├── ping-test.png
+├── enviroment.png
+
 ```
 
 ---
@@ -205,13 +201,11 @@ images/
 ```
 Wireless-Router-Security-Lab/
 │
-├── Wireless Router Security.pkt
+├── Instructions-Configure-Wireless-Router-Hardening-and-Security.docx
 ├── README.md
 └── images/
-    ├── topology.png
-    ├── router-config.png
-    ├── guest-network.png
-    └── ping-test.png
+    ├── enviroment.png
+    
 ```
 
 ---
